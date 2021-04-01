@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to the MurakumoJP's Profile ❤
+
+## Languages
+
+HTML, CSS, C#
+
+### Stats 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murakumo-JP&theme=tokyonight&hide=issues,contribs&include_all_commits)](https://github.com/kadantte/github-readme-stats)
 
 <!--
 **Murakumo-JP/Murakumo-JP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
