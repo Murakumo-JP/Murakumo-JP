@@ -1,4 +1,4 @@
-### Welcome to the MurakumoJP's Profile ❤
+### Welcome to MurakumoJP's Profile ❤
 
 ## Languages
 
