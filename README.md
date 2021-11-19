@@ -8,6 +8,4 @@ Everything I do is purely my hobby and nothing more. ^_^
 </br>
 ⚙ CSS
 </br>
-⚙ JS
-</br>
-⚙ C# WPF
+⚙ C# WPF (50%)
