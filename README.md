@@ -5,9 +5,8 @@
 - [MyAnimeList](https://myanimelist.net/profile/MurakumoJP)
 ## Languages
 
-⚙ HTML/CSS/JS
-</br>
-⚙ C# WPF (50%)
+- ⚙ HTML/CSS/JS
+- ⚙ C# WPF (50%)
 
 ## [Anamnesis-RU](https://github.com/Murakumo-JP/AnamnesisRU)
 
