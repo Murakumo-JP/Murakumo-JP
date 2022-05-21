@@ -8,7 +8,7 @@
 - ⚙ HTML/CSS/JS
 - ⚙ C# WPF (50%)
 
-## [Anamnesis-RU](https://github.com/Murakumo-JP/AnamnesisRU)
+## [AnamnesisRU](https://github.com/Murakumo-JP/AnamnesisRU)
 
 - The translation was done by [MurakumoJP](https://twitter.com/MurakumoJP) and [Xanth’ir](https://twitter.com/XanthirV)
 - From Free Company: [Eternal Frost](https://eu.finalfantasyxiv.com/lodestone/freecompany/9234631035923326442/)
