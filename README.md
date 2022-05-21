@@ -14,4 +14,4 @@
 - From Free Company: [Eternal Frost](https://eu.finalfantasyxiv.com/lodestone/freecompany/9234631035923326442/)
 - If you found an error in the translation, write to us in [Discord](https://discord.gg/YfBkJwVpA7)
 
-![Discord Banner 2](https://discordapp.com/api/guilds/738372498529452032/widget.png?style=banner2)
+<a href="https://discord.gg/YfBkJwVpA7"><img src="https://discordapp.com/api/guilds/738372498529452032/widget.png?style=banner2" alt="Discord Banner 2"/></a>
