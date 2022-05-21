@@ -2,7 +2,7 @@
 - Everything I do is purely my hobby and nothing more. ^_^
 - [Site](https://murakumo-jp.github.io/)
 - [Twitter](https://twitter.com/MurakumoJP)
-- [MyAnimeList](https://myanimelist.net/profile/MurakumoJP)
+
 ## Languages
 
 - ⚙ HTML/CSS/JS
