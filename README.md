@@ -10,4 +10,4 @@
 
 ## Anamnesis [RU]
 
-- The translation was done by [MurakumoJP](https://twitter.com/MurakumoJP) and [Xanth’ir](https://twitter.com/XanthirV)
+- The translation was done by [Murakumo](https://twitter.com/MurakumoJP) and [Xanth’ir](https://twitter.com/XanthirV)
