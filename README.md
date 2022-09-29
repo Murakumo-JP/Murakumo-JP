@@ -7,7 +7,3 @@
 
 - ⚙ HTML/CSS/JS
 - ⚙ C# WPF (50%)
-
-## Anamnesis [RU]
-
-- The translation was done by [Murakumo](https://twitter.com/MurakumoJP) and [Xanth’ir](https://twitter.com/XanthirV)
