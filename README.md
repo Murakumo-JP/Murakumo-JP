@@ -9,5 +9,5 @@
   <li>⚙ HTML/CSS/JS</li>
   <li>⚙ C# WPF (50%)</li>
   <br/>
-  <img align="left" src="Assets/PrinzEugenSport.png" width="46%"/>
+  <img align="left" src="Assets/PrinzEugenSport.png" width="45%"/>
 </div>
